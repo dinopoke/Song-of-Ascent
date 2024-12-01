@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 2d9888bf04eeba64788ce71d37cab0f0
+timeCreated: 1510107332
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Ankle_Lower_ikh
+    100002: Ankle_Lower_L_ikh
+    100004: Ankle_Upper_ikh
+    100006: Ankle_Upper_L_ikh
+    100008: Bind_Belly_jnt
+    100010: Bind_Chest_jnt
+    100012: Bind_COG_jnt
+    100014: Bind_Head_end
+    100016: Bind_Head_jnt
+    100018: Bind_L_Ankle_jnt
+    100020: Bind_L_BackKnee_jnt
+    100022: Bind_L_Clavicale_end
+    100024: Bind_L_Clavicale_jnt
+    100026: Bind_L_Clavicale_jnt 1
+    100028: Bind_L_Foot_Index_01_jnt
+    100030: Bind_L_Foot_Index_02_jnt
+    100032: Bind_L_Foot_Index_end
+    100034: Bind_L_Foot_Pinky_01_jnt
+    100036: Bind_L_Foot_Pinky_02_jnt
+    100038: Bind_L_Foot_Pinky_end
+    100040: Bind_L_Foot_Toe_01_jnt
+    100042: Bind_L_Foot_Toe_02_jnt
+    100044: Bind_L_Foot_Toe_end
+    100046: Bind_L_ForeArm_jnt
+    100048: Bind_L_ForeArm_jnt 1
+    100050: Bind_L_Index_01_jnt
+    100052: Bind_L_Index_01_jnt 1
+    100054: Bind_L_Index_02_jnt
+    100056: Bind_L_Index_02_jnt 1
+    100058: Bind_L_Index_03_jnt
+    100060: Bind_L_Index_03_jnt 1
+    100062: Bind_L_Index_3_jnt
+    100064: Bind_L_Index_end
+    100066: Bind_L_Index_end 1
+    100068: Bind_L_Knee_jnt
+    100070: Bind_L_Middle_01_jnt
+    100072: Bind_L_Middle_01_jnt 1
+    100074: Bind_L_Middle_02_jnt
+    100076: Bind_L_Middle_02_jnt 1
+    100078: Bind_L_Middle_03_jnt
+    100080: Bind_L_Middle_03_jnt 1
+    100082: Bind_L_Middle_end
+    100084: Bind_L_Middle_end 1
+    100086: Bind_L_Pinky_01_jnt
+    100088: Bind_L_Pinky_01_jnt 1
+    100090: Bind_L_Pinky_02_jnt
+    100092: Bind_L_Pinky_02_jnt 1
+    100094: Bind_L_Pinky_03_jnt
+    100096: Bind_L_Pinky_03_jnt 1
+    100098: Bind_L_Pinky_end
+    100100: Bind_L_Pinky_end 1
+    100102: Bind_L_Thigh_jnt
+    100104: Bind_L_Thumb_01_jnt
+    100106: Bind_L_Thumb_01_jnt 1
+    100108: Bind_L_Thumb_02_jnt
+    100110: Bind_L_Thumb_02_jnt 1
+    100112: Bind_L_Thumb_03_jnt
+    100114: Bind_L_Thumb_03_jnt 1
+    100116: Bind_L_Thumb_end
+    100118: Bind_L_Thumb_end 1
+    100120: Bind_L_UpperArm_jnt
+    100122: Bind_L_UpperArm_jnt 1
+    100124: Bind_L_Wrist_jnt
+    100126: Bind_L_Wrist_jnt 1
+    100128: Bind_Mask_jnt
+    100130: Bind_Neck_jnt
+    100132: Bind_NeckMid_jnt
+    100134: Bind_Pelvis_end
+    100136: Bind_Pelvis_jnt
+    100138: Bind_R_Ankle_jnt
+    100140: Bind_R_BackKnee_jnt
+    100142: Bind_R_Clavicale_end
+    100144: Bind_R_Clavicale_jnt
+    100146: Bind_R_Clavicale_jnt 1
+    100148: Bind_R_Foot_Index_01_jnt
+    100150: Bind_R_Foot_Index_02_jnt
+    100152: Bind_R_Foot_Index_end
+    100154: Bind_R_Foot_Pinky_01_jnt
+    100156: Bind_R_Foot_Pinky_02_jnt
+    100158: Bind_R_Foot_Pinky_end
+    100160: Bind_R_Foot_Toe_01_jnt
+    100162: Bind_R_Foot_Toe_02_jnt
+    100164: Bind_R_Foot_Toe_end
+    100166: Bind_R_ForeArm_jnt
+    100168: Bind_R_ForeArm_jnt 1
+    100170: Bind_R_Index_01_jnt
+    100172: Bind_R_Index_01_jnt 1
+    100174: Bind_R_Index_02_jnt
+    100176: Bind_R_Index_02_jnt 1
+    100178: Bind_R_Index_03_jnt
+    100180: Bind_R_Index_03_jnt 1
+    100182: Bind_R_Index_3_jnt
+    100184: Bind_R_Index_end
+    100186: Bind_R_Index_end 1
+    100188: Bind_R_Knee_jnt
+    100190: Bind_R_Middle_01_jnt
+    100192: Bind_R_Middle_01_jnt 1
+    100194: Bind_R_Middle_02_jnt
+    100196: Bind_R_Middle_02_jnt 1
+    100198: Bind_R_Middle_03_jnt
+    100200: Bind_R_Middle_03_jnt 1
+    100202: Bind_R_Middle_end
+    100204: Bind_R_Middle_end 1
+    100206: Bind_R_Pinky_01_jnt
+    100208: Bind_R_Pinky_01_jnt 1
+    100210: Bind_R_Pinky_02_jnt
+    100212: Bind_R_Pinky_02_jnt 1
+    100214: Bind_R_Pinky_03_jnt
+    100216: Bind_R_Pinky_03_jnt 1
+    100218: Bind_R_Pinky_end
+    100220: Bind_R_Pinky_end 1
+    100222: Bind_R_Thigh_jnt
+    100224: Bind_R_Thumb_01_jnt
+    100226: Bind_R_Thumb_01_jnt 1
+    100228: Bind_R_Thumb_02_jnt
+    100230: Bind_R_Thumb_02_jnt 1
+    100232: Bind_R_Thumb_03_jnt
+    100234: Bind_R_Thumb_03_jnt 1
+    100236: Bind_R_Thumb_end
+    100238: Bind_R_Thumb_end 1
+    100240: Bind_R_UpperArm_jnt
+    100242: Bind_R_UpperArm_jnt 1
+    100244: Bind_R_Wrist_jnt
+    100246: Bind_R_Wrist_jnt 1
+    100248: Bind_TailFeather_01_01_jnt
+    100250: Bind_TailFeather_01_02_jnt
+    100252: Bind_TailFeather_01_03_jnt
+    100254: Bind_TailFeather_01_end
+    100256: Bind_TailFeather_02_01_jnt
+    100258: Bind_TailFeather_02_02_jnt
+    100260: Bind_TailFeather_02_03_jnt
+    100262: Bind_TailFeather_02_end
+    100264: Bind_TailFeather_03_01_jnt
+    100266: Bind_TailFeather_03_02_jnt
+    100268: Bind_TailFeather_03_03_jnt
+    100270: Bind_TailFeather_03_end
+    100272: Bind_TailFeather_04_01_jnt
+    100274: Bind_TailFeather_04_02_jnt
+    100276: Bind_TailFeather_04_03_jnt
+    100278: Bind_TailFeather_04_end
+    100280: Bind_TailFeather_05_01_jnt
+    100282: Bind_TailFeather_05_02_jnt
+    100284: Bind_TailFeather_05_03_jnt
+    100286: Bind_TailFeather_05_end
+    100288: Foot_L_ctrl
+    100290: Foot_R_ctrl
+    100292: IK_Full_L_ikh
+    100294: IK_Full_R_ikh
+    100296: IK_Toe_L_ikh
+    100298: IK_Toe_R_ikh
+    100300: //RootNode
+    100302: Knee_L_Ctrl
+    100304: Knee_R_Ctrl
+    100306: Rig_Arm_IK_R_Ctrl_Grp
+    100308: Rig_Arm_R_IK
+    100310: Rig_Arm_R_IK 1
+    100312: Rig_Belly_jnt
+    100314: Rig_Chest_jnt
+    100316: Rig_COG_Ctrl
+    100318: RIG_COG_Ctrl_Grp
+    100320: Rig_COG_jnt
+    100322: Rig_Elbow_L_Ctrl
+    100324: Rig_Elbow_R_Ctrl
+    100326: Rig_Hand_IK_L_Ctrl_Grp
+    100328: Rig_Hand_L_IK
+    100330: Rig_Hand_L_IK_Ctrl
+    100332: Rig_Hand_L_Ikh_grp
+    100334: Rig_Hand_R_IK
+    100336: Rig_Hand_R_IK_Ctrl
+    100338: Rig_Head_end
+    100340: Rig_Head_jnt
+    100342: Rig_L_Ankle_IK_Setup
+    100344: Rig_L_Ankle_jnt
+    100346: Rig_L_BackKnee_IK_Setup
+    100348: Rig_L_BackKnee_jnt
+    100350: Rig_L_Foot_Index_01_IK_Setup
+    100352: Rig_L_Foot_Index_01_jnt
+    100354: Rig_L_Foot_Index_02_IK_Setup
+    100356: Rig_L_Foot_Index_02_jnt
+    100358: Rig_L_Foot_Index_end
+    100360: Rig_L_Foot_Index_end_IK_Setup
+    100362: Rig_L_Foot_Pinky_01_IK_Setup
+    100364: Rig_L_Foot_Pinky_01_jnt
+    100366: Rig_L_Foot_Pinky_02_IK_Setup
+    100368: Rig_L_Foot_Pinky_02_jnt
+    100370: Rig_L_Foot_Pinky_end
+    100372: Rig_L_Foot_Pinky_end_IK_Setup
+    100374: Rig_L_Foot_Toe_01_IK_Setup
+    100376: Rig_L_Foot_Toe_01_jnt
+    100378: Rig_L_Foot_Toe_02_IK_Setup
+    100380: Rig_L_Foot_Toe_02_jnt
+    100382: Rig_L_Foot_Toe_end
+    100384: Rig_L_Foot_Toe_end_IK_Setup
+    100386: Rig_L_Knee_IK_Setup
+    100388: Rig_L_Knee_jnt
+    100390: Rig_L_Thigh_IK_Setup
+    100392: Rig_L_Thigh_jnt
+    100394: Rig_Mask_jnt
+    100396: Rig_Master_Ctrl
+    100398: Rig_Neck_jnt
+    100400: Rig_NeckMid_jnt
+    100402: Rig_Pelvis_end
+    100404: Rig_Pelvis_jnt
+    100406: Rig_R_Ankle_ik_SetUp
+    100408: Rig_R_Ankle_jnt
+    100410: Rig_R_BackKnee_ik_SetUp
+    100412: Rig_R_BackKnee_jnt
+    100414: Rig_R_Foot_Index_01_ik_SetUp
+    100416: Rig_R_Foot_Index_01_jnt
+    100418: Rig_R_Foot_Index_02_ik_SetUp
+    100420: Rig_R_Foot_Index_02_jnt
+    100422: Rig_R_Foot_Index_end
+    100424: Rig_R_Foot_Index_end_ik_SetUp
+    100426: Rig_R_Foot_Pinky_01_ik_SetUp
+    100428: Rig_R_Foot_Pinky_01_jnt
+    100430: Rig_R_Foot_Pinky_02_ik_SetUp
+    100432: Rig_R_Foot_Pinky_02_jnt
+    100434: Rig_R_Foot_Pinky_end
+    100436: Rig_R_Foot_Pinky_end_ik_SetUp
+    100438: Rig_R_Foot_Toe_01_jnt
+    100440: Rig_R_Foot_Toe_02_jnt
+    100442: Rig_R_Foot_Toe_end
+    100444: Rig_R_Foot_Toe_end_ik_SetUp
+    100446: Rig_R_Foot_Toe_ik_SetUp
+    100448: Rig_R_Foot_Toe_ik_SetUp 1
+    100450: Rig_R_Knee_ik_SetUp
+    100452: Rig_R_Knee_jnt
+    100454: Rig_R_Thigh_ik_SetUp
+    100456: Rig_R_Thigh_jnt
+    100458: Rig_TailFeather_01_01_jnt
+    100460: Rig_TailFeather_01_02_jnt
+    100462: Rig_TailFeather_01_03_jnt
+    100464: Rig_TailFeather_01_end
+    100466: Rig_TailFeather_02_01_jnt
+    100468: Rig_TailFeather_02_02_jnt
+    100470: Rig_TailFeather_02_03_jnt
+    100472: Rig_TailFeather_02_end
+    100474: Rig_TailFeather_03_01_jnt
+    100476: Rig_TailFeather_03_02_jnt
+    100478: Rig_TailFeather_03_03_jnt
+    100480: Rig_TailFeather_03_end
+    100482: Rig_TailFeather_04_01_jnt
+    100484: Rig_TailFeather_04_02_jnt
+    100486: Rig_TailFeather_04_03_jnt
+    100488: Rig_TailFeather_04_end
+    100490: Rig_TailFeather_05_01_jnt
+    100492: Rig_TailFeather_05_02_jnt
+    100494: Rig_TailFeather_05_03_jnt
+    100496: Rig_TailFeather_05_end
+    400000: Ankle_Lower_ikh
+    400002: Ankle_Lower_L_ikh
+    400004: Ankle_Upper_ikh
+    400006: Ankle_Upper_L_ikh
+    400008: Bind_Belly_jnt
+    400010: Bind_Chest_jnt
+    400012: Bind_COG_jnt
+    400014: Bind_Head_end
+    400016: Bind_Head_jnt
+    400018: Bind_L_Ankle_jnt
+    400020: Bind_L_BackKnee_jnt
+    400022: Bind_L_Clavicale_end
+    400024: Bind_L_Clavicale_jnt
+    400026: Bind_L_Clavicale_jnt 1
+    400028: Bind_L_Foot_Index_01_jnt
+    400030: Bind_L_Foot_Index_02_jnt
+    400032: Bind_L_Foot_Index_end
+    400034: Bind_L_Foot_Pinky_01_jnt
+    400036: Bind_L_Foot_Pinky_02_jnt
+    400038: Bind_L_Foot_Pinky_end
+    400040: Bind_L_Foot_Toe_01_jnt
+    400042: Bind_L_Foot_Toe_02_jnt
+    400044: Bind_L_Foot_Toe_end
+    400046: Bind_L_ForeArm_jnt
+    400048: Bind_L_ForeArm_jnt 1
+    400050: Bind_L_Index_01_jnt
+    400052: Bind_L_Index_01_jnt 1
+    400054: Bind_L_Index_02_jnt
+    400056: Bind_L_Index_02_jnt 1
+    400058: Bind_L_Index_03_jnt
+    400060: Bind_L_Index_03_jnt 1
+    400062: Bind_L_Index_3_jnt
+    400064: Bind_L_Index_end
+    400066: Bind_L_Index_end 1
+    400068: Bind_L_Knee_jnt
+    400070: Bind_L_Middle_01_jnt
+    400072: Bind_L_Middle_01_jnt 1
+    400074: Bind_L_Middle_02_jnt
+    400076: Bind_L_Middle_02_jnt 1
+    400078: Bind_L_Middle_03_jnt
+    400080: Bind_L_Middle_03_jnt 1
+    400082: Bind_L_Middle_end
+    400084: Bind_L_Middle_end 1
+    400086: Bind_L_Pinky_01_jnt
+    400088: Bind_L_Pinky_01_jnt 1
+    400090: Bind_L_Pinky_02_jnt
+    400092: Bind_L_Pinky_02_jnt 1
+    400094: Bind_L_Pinky_03_jnt
+    400096: Bind_L_Pinky_03_jnt 1
+    400098: Bind_L_Pinky_end
+    400100: Bind_L_Pinky_end 1
+    400102: Bind_L_Thigh_jnt
+    400104: Bind_L_Thumb_01_jnt
+    400106: Bind_L_Thumb_01_jnt 1
+    400108: Bind_L_Thumb_02_jnt
+    400110: Bind_L_Thumb_02_jnt 1
+    400112: Bind_L_Thumb_03_jnt
+    400114: Bind_L_Thumb_03_jnt 1
+    400116: Bind_L_Thumb_end
+    400118: Bind_L_Thumb_end 1
+    400120: Bind_L_UpperArm_jnt
+    400122: Bind_L_UpperArm_jnt 1
+    400124: Bind_L_Wrist_jnt
+    400126: Bind_L_Wrist_jnt 1
+    400128: Bind_Mask_jnt
+    400130: Bind_Neck_jnt
+    400132: Bind_NeckMid_jnt
+    400134: Bind_Pelvis_end
+    400136: Bind_Pelvis_jnt
+    400138: Bind_R_Ankle_jnt
+    400140: Bind_R_BackKnee_jnt
+    400142: Bind_R_Clavicale_end
+    400144: Bind_R_Clavicale_jnt
+    400146: Bind_R_Clavicale_jnt 1
+    400148: Bind_R_Foot_Index_01_jnt
+    400150: Bind_R_Foot_Index_02_jnt
+    400152: Bind_R_Foot_Index_end
+    400154: Bind_R_Foot_Pinky_01_jnt
+    400156: Bind_R_Foot_Pinky_02_jnt
+    400158: Bind_R_Foot_Pinky_end
+    400160: Bind_R_Foot_Toe_01_jnt
+    400162: Bind_R_Foot_Toe_02_jnt
+    400164: Bind_R_Foot_Toe_end
+    400166: Bind_R_ForeArm_jnt
+    400168: Bind_R_ForeArm_jnt 1
+    400170: Bind_R_Index_01_jnt
+    400172: Bind_R_Index_01_jnt 1
+    400174: Bind_R_Index_02_jnt
+    400176: Bind_R_Index_02_jnt 1
+    400178: Bind_R_Index_03_jnt
+    400180: Bind_R_Index_03_jnt 1
+    400182: Bind_R_Index_3_jnt
+    400184: Bind_R_Index_end
+    400186: Bind_R_Index_end 1
+    400188: Bind_R_Knee_jnt
+    400190: Bind_R_Middle_01_jnt
+    400192: Bind_R_Middle_01_jnt 1
+    400194: Bind_R_Middle_02_jnt
+    400196: Bind_R_Middle_02_jnt 1
+    400198: Bind_R_Middle_03_jnt
+    400200: Bind_R_Middle_03_jnt 1
+    400202: Bind_R_Middle_end
+    400204: Bind_R_Middle_end 1
+    400206: Bind_R_Pinky_01_jnt
+    400208: Bind_R_Pinky_01_jnt 1
+    400210: Bind_R_Pinky_02_jnt
+    400212: Bind_R_Pinky_02_jnt 1
+    400214: Bind_R_Pinky_03_jnt
+    400216: Bind_R_Pinky_03_jnt 1
+    400218: Bind_R_Pinky_end
+    400220: Bind_R_Pinky_end 1
+    400222: Bind_R_Thigh_jnt
+    400224: Bind_R_Thumb_01_jnt
+    400226: Bind_R_Thumb_01_jnt 1
+    400228: Bind_R_Thumb_02_jnt
+    400230: Bind_R_Thumb_02_jnt 1
+    400232: Bind_R_Thumb_03_jnt
+    400234: Bind_R_Thumb_03_jnt 1
+    400236: Bind_R_Thumb_end
+    400238: Bind_R_Thumb_end 1
+    400240: Bind_R_UpperArm_jnt
+    400242: Bind_R_UpperArm_jnt 1
+    400244: Bind_R_Wrist_jnt
+    400246: Bind_R_Wrist_jnt 1
+    400248: Bind_TailFeather_01_01_jnt
+    400250: Bind_TailFeather_01_02_jnt
+    400252: Bind_TailFeather_01_03_jnt
+    400254: Bind_TailFeather_01_end
+    400256: Bind_TailFeather_02_01_jnt
+    400258: Bind_TailFeather_02_02_jnt
+    400260: Bind_TailFeather_02_03_jnt
+    400262: Bind_TailFeather_02_end
+    400264: Bind_TailFeather_03_01_jnt
+    400266: Bind_TailFeather_03_02_jnt
+    400268: Bind_TailFeather_03_03_jnt
+    400270: Bind_TailFeather_03_end
+    400272: Bind_TailFeather_04_01_jnt
+    400274: Bind_TailFeather_04_02_jnt
+    400276: Bind_TailFeather_04_03_jnt
+    400278: Bind_TailFeather_04_end
+    400280: Bind_TailFeather_05_01_jnt
+    400282: Bind_TailFeather_05_02_jnt
+    400284: Bind_TailFeather_05_03_jnt
+    400286: Bind_TailFeather_05_end
+    400288: Foot_L_ctrl
+    400290: Foot_R_ctrl
+    400292: IK_Full_L_ikh
+    400294: IK_Full_R_ikh
+    400296: IK_Toe_L_ikh
+    400298: IK_Toe_R_ikh
+    400300: //RootNode
+    400302: Knee_L_Ctrl
+    400304: Knee_R_Ctrl
+    400306: Rig_Arm_IK_R_Ctrl_Grp
+    400308: Rig_Arm_R_IK
+    400310: Rig_Arm_R_IK 1
+    400312: Rig_Belly_jnt
+    400314: Rig_Chest_jnt
+    400316: Rig_COG_Ctrl
+    400318: RIG_COG_Ctrl_Grp
+    400320: Rig_COG_jnt
+    400322: Rig_Elbow_L_Ctrl
+    400324: Rig_Elbow_R_Ctrl
+    400326: Rig_Hand_IK_L_Ctrl_Grp
+    400328: Rig_Hand_L_IK
+    400330: Rig_Hand_L_IK_Ctrl
+    400332: Rig_Hand_L_Ikh_grp
+    400334: Rig_Hand_R_IK
+    400336: Rig_Hand_R_IK_Ctrl
+    400338: Rig_Head_end
+    400340: Rig_Head_jnt
+    400342: Rig_L_Ankle_IK_Setup
+    400344: Rig_L_Ankle_jnt
+    400346: Rig_L_BackKnee_IK_Setup
+    400348: Rig_L_BackKnee_jnt
+    400350: Rig_L_Foot_Index_01_IK_Setup
+    400352: Rig_L_Foot_Index_01_jnt
+    400354: Rig_L_Foot_Index_02_IK_Setup
+    400356: Rig_L_Foot_Index_02_jnt
+    400358: Rig_L_Foot_Index_end
+    400360: Rig_L_Foot_Index_end_IK_Setup
+    400362: Rig_L_Foot_Pinky_01_IK_Setup
+    400364: Rig_L_Foot_Pinky_01_jnt
+    400366: Rig_L_Foot_Pinky_02_IK_Setup
+    400368: Rig_L_Foot_Pinky_02_jnt
+    400370: Rig_L_Foot_Pinky_end
+    400372: Rig_L_Foot_Pinky_end_IK_Setup
+    400374: Rig_L_Foot_Toe_01_IK_Setup
+    400376: Rig_L_Foot_Toe_01_jnt
+    400378: Rig_L_Foot_Toe_02_IK_Setup
+    400380: Rig_L_Foot_Toe_02_jnt
+    400382: Rig_L_Foot_Toe_end
+    400384: Rig_L_Foot_Toe_end_IK_Setup
+    400386: Rig_L_Knee_IK_Setup
+    400388: Rig_L_Knee_jnt
+    400390: Rig_L_Thigh_IK_Setup
+    400392: Rig_L_Thigh_jnt
+    400394: Rig_Mask_jnt
+    400396: Rig_Master_Ctrl
+    400398: Rig_Neck_jnt
+    400400: Rig_NeckMid_jnt
+    400402: Rig_Pelvis_end
+    400404: Rig_Pelvis_jnt
+    400406: Rig_R_Ankle_ik_SetUp
+    400408: Rig_R_Ankle_jnt
+    400410: Rig_R_BackKnee_ik_SetUp
+    400412: Rig_R_BackKnee_jnt
+    400414: Rig_R_Foot_Index_01_ik_SetUp
+    400416: Rig_R_Foot_Index_01_jnt
+    400418: Rig_R_Foot_Index_02_ik_SetUp
+    400420: Rig_R_Foot_Index_02_jnt
+    400422: Rig_R_Foot_Index_end
+    400424: Rig_R_Foot_Index_end_ik_SetUp
+    400426: Rig_R_Foot_Pinky_01_ik_SetUp
+    400428: Rig_R_Foot_Pinky_01_jnt
+    400430: Rig_R_Foot_Pinky_02_ik_SetUp
+    400432: Rig_R_Foot_Pinky_02_jnt
+    400434: Rig_R_Foot_Pinky_end
+    400436: Rig_R_Foot_Pinky_end_ik_SetUp
+    400438: Rig_R_Foot_Toe_01_jnt
+    400440: Rig_R_Foot_Toe_02_jnt
+    400442: Rig_R_Foot_Toe_end
+    400444: Rig_R_Foot_Toe_end_ik_SetUp
+    400446: Rig_R_Foot_Toe_ik_SetUp
+    400448: Rig_R_Foot_Toe_ik_SetUp 1
+    400450: Rig_R_Knee_ik_SetUp
+    400452: Rig_R_Knee_jnt
+    400454: Rig_R_Thigh_ik_SetUp
+    400456: Rig_R_Thigh_jnt
+    400458: Rig_TailFeather_01_01_jnt
+    400460: Rig_TailFeather_01_02_jnt
+    400462: Rig_TailFeather_01_03_jnt
+    400464: Rig_TailFeather_01_end
+    400466: Rig_TailFeather_02_01_jnt
+    400468: Rig_TailFeather_02_02_jnt
+    400470: Rig_TailFeather_02_03_jnt
+    400472: Rig_TailFeather_02_end
+    400474: Rig_TailFeather_03_01_jnt
+    400476: Rig_TailFeather_03_02_jnt
+    400478: Rig_TailFeather_03_03_jnt
+    400480: Rig_TailFeather_03_end
+    400482: Rig_TailFeather_04_01_jnt
+    400484: Rig_TailFeather_04_02_jnt
+    400486: Rig_TailFeather_04_03_jnt
+    400488: Rig_TailFeather_04_end
+    400490: Rig_TailFeather_05_01_jnt
+    400492: Rig_TailFeather_05_02_jnt
+    400494: Rig_TailFeather_05_03_jnt
+    400496: Rig_TailFeather_05_end
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

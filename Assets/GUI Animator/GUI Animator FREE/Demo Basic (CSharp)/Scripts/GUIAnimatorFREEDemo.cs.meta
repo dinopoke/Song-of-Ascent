@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12c78100016c0b646812ef39caface53
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11158
+  packageName: Elemental Free
+  packageVersion: 1.2.6
+  assetPath: Assets/GUI Animator/GUI Animator FREE/Demo Basic (CSharp)/Scripts/GUIAnimatorFREEDemo.cs
+  uploadId: 187688

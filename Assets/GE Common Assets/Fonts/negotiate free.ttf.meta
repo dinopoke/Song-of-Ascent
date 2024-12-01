@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2e62831f65b782a49b69a331c4422b39
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 32
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames: []
+  customCharacters: 
+  fontRenderingMode: 0
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11158
+  packageName: Elemental Free
+  packageVersion: 1.2.6
+  assetPath: Assets/GE Common Assets/Fonts/negotiate free.ttf
+  uploadId: 187688

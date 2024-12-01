@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e25fff799bad4042b5b388b3c7ec447
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11158
+  packageName: Elemental Free
+  packageVersion: 1.2.6
+  assetPath: Assets/GE Common Assets/GE Toggle Full Screen/Scripts/GE_ToggleFullScreenUI.cs
+  uploadId: 187688

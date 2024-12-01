@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Test
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Base_01
+    m_Weight: 0
+  - m_Path: Base_01/Body
+    m_Weight: 0
+  - m_Path: Base_01/Body/Body 1
+    m_Weight: 0
+  - m_Path: Base_01/Body/Hood
+    m_Weight: 0
+  - m_Path: Base_01/Body/Mask
+    m_Weight: 0
+  - m_Path: Base_01/Body/Scarf
+    m_Weight: 0
+  - m_Path: Base_01/Tail
+    m_Weight: 0
+  - m_Path: Base_01/Tail/Feather_01
+    m_Weight: 0
+  - m_Path: Base_01/Tail/Feather_02
+    m_Weight: 0
+  - m_Path: Base_01/Tail/Feather_03
+    m_Weight: 0
+  - m_Path: Base_01/Tail/Feather_04
+    m_Weight: 0
+  - m_Path: Base_01/Tail/Feather_05
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Index_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Index_01_jnt/Bind_L_Index_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Index_01_jnt/Bind_L_Index_02_jnt/Bind_L_Index_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Index_01_jnt/Bind_L_Index_02_jnt/Bind_L_Index_3_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Index_01_jnt/Bind_L_Index_02_jnt/Bind_L_Index_3_jnt/Bind_L_Index_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Middle_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Middle_01_jnt/Bind_L_Middle_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Middle_01_jnt/Bind_L_Middle_02_jnt/Bind_L_Middle_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Middle_01_jnt/Bind_L_Middle_02_jnt/Bind_L_Middle_03_jnt/Bind_L_Middle_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Pinky_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Pinky_01_jnt/Bind_L_Pinky_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Pinky_01_jnt/Bind_L_Pinky_02_jnt/Bind_L_Pinky_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Pinky_01_jnt/Bind_L_Pinky_02_jnt/Bind_L_Pinky_03_jnt/Bind_L_Pinky_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Thumb_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Thumb_01_jnt/Bind_L_Thumb_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Thumb_01_jnt/Bind_L_Thumb_02_jnt/Bind_L_Thumb_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_L_Clavicale_jnt/Bind_L_UpperArm_jnt/Bind_L_ForeArm_jnt/Bind_L_Wrist_jnt/Bind_L_Thumb_01_jnt/Bind_L_Thumb_02_jnt/Bind_L_Thumb_03_jnt/Bind_L_Thumb_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_Neck_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_Neck_jnt/Bind_NeckMid_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_Neck_jnt/Bind_NeckMid_jnt/Bind_Head_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_Neck_jnt/Bind_NeckMid_jnt/Bind_Head_jnt/Bind_Head_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_Neck_jnt/Bind_NeckMid_jnt/Bind_Head_jnt/Bind_Mask_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Index_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Index_01_jnt/Bind_R_Index_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Index_01_jnt/Bind_R_Index_02_jnt/Bind_R_Index_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Index_01_jnt/Bind_R_Index_02_jnt/Bind_R_Index_3_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Index_01_jnt/Bind_R_Index_02_jnt/Bind_R_Index_3_jnt/Bind_R_Index_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Middle_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Middle_01_jnt/Bind_R_Middle_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Middle_01_jnt/Bind_R_Middle_02_jnt/Bind_R_Middle_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Middle_01_jnt/Bind_R_Middle_02_jnt/Bind_R_Middle_03_jnt/Bind_R_Middle_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Pinky_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Pinky_01_jnt/Bind_R_Pinky_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Pinky_01_jnt/Bind_R_Pinky_02_jnt/Bind_R_Pinky_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Pinky_01_jnt/Bind_R_Pinky_02_jnt/Bind_R_Pinky_03_jnt/Bind_R_Pinky_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Thumb_01_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Thumb_01_jnt/Bind_R_Thumb_02_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Thumb_01_jnt/Bind_R_Thumb_02_jnt/Bind_R_Thumb_03_jnt
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Belly_jnt/Bind_Chest_jnt/Bind_R_Clavicale_jnt/Bind_R_UpperArm_jnt/Bind_R_ForeArm_jnt/Bind_R_Wrist_jnt/Bind_R_Thumb_01_jnt/Bind_R_Thumb_02_jnt/Bind_R_Thumb_03_jnt/Bind_R_Thumb_end
+    m_Weight: 1
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Index_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Index_01_jnt/Bind_L_Foot_Index_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Index_01_jnt/Bind_L_Foot_Index_02_jnt/Bind_L_Foot_Index_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Pinky_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Pinky_01_jnt/Bind_L_Foot_Pinky_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Pinky_01_jnt/Bind_L_Foot_Pinky_02_jnt/Bind_L_Foot_Pinky_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Toe_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Toe_01_jnt/Bind_L_Foot_Toe_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_L_Thigh_jnt/Bind_L_Knee_jnt/Bind_L_BackKnee_jnt/Bind_L_Ankle_jnt/Bind_L_Foot_Toe_01_jnt/Bind_L_Foot_Toe_02_jnt/Bind_L_Foot_Toe_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Index_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Index_01_jnt/Bind_R_Foot_Index_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Index_01_jnt/Bind_R_Foot_Index_02_jnt/Bind_R_Foot_Index_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Pinky_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Pinky_01_jnt/Bind_R_Foot_Pinky_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Pinky_01_jnt/Bind_R_Foot_Pinky_02_jnt/Bind_R_Foot_Pinky_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Toe_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Toe_01_jnt/Bind_R_Foot_Toe_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_Pelvis_end/Bind_R_Thigh_jnt/Bind_R_Knee_jnt/Bind_R_BackKnee_jnt/Bind_R_Ankle_jnt/Bind_R_Foot_Toe_01_jnt/Bind_R_Foot_Toe_02_jnt/Bind_R_Foot_Toe_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_01_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_01_01_jnt/Bind_TailFeather_01_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_01_01_jnt/Bind_TailFeather_01_02_jnt/Bind_TailFeather_01_03_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_01_01_jnt/Bind_TailFeather_01_02_jnt/Bind_TailFeather_01_03_jnt/Bind_TailFeather_01_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_02_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_02_01_jnt/Bind_TailFeather_02_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_02_01_jnt/Bind_TailFeather_02_02_jnt/Bind_TailFeather_02_03_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_02_01_jnt/Bind_TailFeather_02_02_jnt/Bind_TailFeather_02_03_jnt/Bind_TailFeather_02_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_03_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_03_01_jnt/Bind_TailFeather_03_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_03_01_jnt/Bind_TailFeather_03_02_jnt/Bind_TailFeather_03_03_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_03_01_jnt/Bind_TailFeather_03_02_jnt/Bind_TailFeather_03_03_jnt/Bind_TailFeather_03_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_04_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_04_01_jnt/Bind_TailFeather_04_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_04_01_jnt/Bind_TailFeather_04_02_jnt/Bind_TailFeather_04_03_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_04_01_jnt/Bind_TailFeather_04_02_jnt/Bind_TailFeather_04_03_jnt/Bind_TailFeather_04_end
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_05_01_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_05_01_jnt/Bind_TailFeather_05_02_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_05_01_jnt/Bind_TailFeather_05_02_jnt/Bind_TailFeather_05_03_jnt
+    m_Weight: 0
+  - m_Path: Bind_COG_jnt/Bind_Pelvis_jnt/Bind_TailFeather_05_01_jnt/Bind_TailFeather_05_02_jnt/Bind_TailFeather_05_03_jnt/Bind_TailFeather_05_end
+    m_Weight: 0

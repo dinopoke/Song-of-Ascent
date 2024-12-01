@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 842ef2d2abed55b439fe5ec123c5c209
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 11158
+  packageName: Elemental Free
+  packageVersion: 1.2.6
+  assetPath: Assets/GE Common Assets/GE Orbit Camera/Scripts/GE_OrbitCamera.cs
+  uploadId: 187688
